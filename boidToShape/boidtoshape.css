@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    font-family: "Courier New";
+    font-size: 64px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-family: "Courier New";
+}
+
+#explanation {
+    margin-left: 64px;
+    margin-right: 64px;
+}
+
+#BoidToShape {
+    padding: 0;
+    margin: auto;
+    display: block;
+}

@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Local Hack Day 2017: Boid to Shape</title>
+        <link rel="stylesheet" href="boidtoshape.css">
+    </head>
+    <body>
+        <div id="titleText">
+            <h1>Boid to Shape</h1>
+            <h2>(Flashing Lights Warning)</h2>
+            <div id="explanation">
+                A program that I ended up writing for Local Hack Day 2017.
+                In this program, I implemented a variation of the 
+                <a href="https://en.wikipedia.org/wiki/Boids">Boid Algorithm.</a>
+                From there, I then modified it by adding "attractors," which count as
+                several Boids stacked on top of each other whose orientations move the
+                Boids towards the attractors. I then had the attractors go in shapes to make
+                "moving shapes."</br>
+                This project was originally made with Processing.
+                This is a remake of this project made with WebGL.
+            </div>
+        </div>
+        <div class="BoidToShape">
+            <canvas id="BoidToShape"></canvas>
+        </div>
+        <div id="controls">
+            A: Toggle the attractors being visible. </br>
+            M: Make the points follow the mouse. </br>
+            N: Toggle a Dark/Night Mode. </br>
+            R: Toggle Color Mode. 
+            Color Mode turns half the boids red and half of them blue, creating two flocks.</br>
+            P: Toggle Drawing the points. </br>
+            0-6: Toggle attractor patterns 0-6.
+        </div>
+        <script src="attractormaps.js"></script>
+        <script src="boidtoshape.js"></script>
+    </body>
+</html>
