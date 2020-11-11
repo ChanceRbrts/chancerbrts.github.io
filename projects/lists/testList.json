@@ -1,38 +1,41 @@
-[
-    {
-        "title": "Project",
-        "smallDesc": "A small description of what the project is. Should only be this long.",
-        "tech": "JSON, Javascript",
-        "link": "https://chancerbrts.github.io/boidToShape",
-        "demo": "https://chancerbrts.github.io/boidToShape",
-        "image": "test.png",
-        "summary": "A larger description of what the project is and what it is supposed to accomplish.</br> This could be some documentation work, or something else along those lines. This will be HTML, though, but since there's no user input when it comes to writing these descriptions, I don't actually think it would be an issue."
-    },
-    {
-        "title": "Project",
-        "smallDesc": "A small description of what the project is. Should only be this long.",
-        "tech": "JSON, Javascript",
-        "link": "https://chancerbrts.github.io/boidToShape",
-        "demo": "https://chancerbrts.github.io/boidToShape",
-        "image": "test.png",
-        "summary": "A larger description of what the project is and what it is supposed to accomplish.</br> This could be some documentation work, or something else along those lines. This will be HTML, though, but since there's no user input when it comes to writing these descriptions, I don't actually think it would be an issue."
-    },
-    {
-        "title": "Project",
-        "smallDesc": "A small description of what the project is. Should only be this long.",
-        "tech": "JSON, Javascript",
-        "link": "https://chancerbrts.github.io/boidToShape",
-        "demo": "https://chancerbrts.github.io/boidToShape",
-        "image": "test.png",
-        "summary": "A larger description of what the project is and what it is supposed to accomplish.</br> This could be some documentation work, or something else along those lines. This will be HTML, though, but since there's no user input when it comes to writing these descriptions, I don't actually think it would be an issue."
-    },
-    {
-        "title": "Project",
-        "smallDesc": "A small description of what the project is. Should only be this long.",
-        "tech": "JSON, Javascript",
-        "link": "https://chancerbrts.github.io/boidToShape",
-        "demo": "https://chancerbrts.github.io/boidToShape",
-        "image": "test.png",
-        "summary": "A larger description of what the project is and what it is supposed to accomplish.</br> This could be some documentation work, or something else along those lines. This will be HTML, though, but since there's no user input when it comes to writing these descriptions, I don't actually think it would be an issue."
-    }
-]
+{
+    "data": [
+        {
+            "title": "Project",
+            "smallDesc": "A small description of what the project is. Should only be this long.",
+            "tech": "JSON, Javascript",
+            "link": "https://chancerbrts.github.io/boidToShape",
+            "demo": "https://chancerbrts.github.io/boidToShape",
+            "image": "test.png",
+            "summary": "A larger description of what the project is and what it is supposed to accomplish.</br> This could be some documentation work, or something else along those lines. This will be HTML, though, but since there's no user input when it comes to writing these descriptions, I don't actually think it would be an issue."
+        },
+        {
+            "title": "Project",
+            "smallDesc": "A small description of what the project is. Should only be this long.",
+            "tech": "JSON, Javascript",
+            "link": "https://chancerbrts.github.io/boidToShape",
+            "demo": "https://chancerbrts.github.io/boidToShape",
+            "image": "test.png",
+            "summary": "A larger description of what the project is and what it is supposed to accomplish.</br> This could be some documentation work, or something else along those lines. This will be HTML, though, but since there's no user input when it comes to writing these descriptions, I don't actually think it would be an issue."
+        },
+        {
+            "title": "Project",
+            "smallDesc": "A small description of what the project is. Should only be this long.",
+            "tech": "JSON, Javascript",
+            "link": "https://chancerbrts.github.io/boidToShape",
+            "demo": "https://chancerbrts.github.io/boidToShape",
+            "image": "test.png",
+            "summary": "A larger description of what the project is and what it is supposed to accomplish.</br> This could be some documentation work, or something else along those lines. This will be HTML, though, but since there's no user input when it comes to writing these descriptions, I don't actually think it would be an issue."
+        },
+        {
+            "title": "Project",
+            "smallDesc": "A small description of what the project is. Should only be this long.",
+            "tech": "JSON, Javascript",
+            "link": "https://chancerbrts.github.io/boidToShape",
+            "demo": "https://chancerbrts.github.io/boidToShape",
+            "image": "test.png",
+            "summary": "A larger description of what the project is and what it is supposed to accomplish.</br> This could be some documentation work, or something else along those lines. This will be HTML, though, but since there's no user input when it comes to writing these descriptions, I don't actually think it would be an issue."
+        }
+    ],
+    "title": "Test Project List"
+}
